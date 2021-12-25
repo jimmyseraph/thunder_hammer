@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * 测试类专用缓存，采用线程独立存储方式，所以当存在多线程运行测试用例时，缓存并不通用，线程之间互不影响
+ * @author Louis
  */
 public class TestClassCache {
     /**

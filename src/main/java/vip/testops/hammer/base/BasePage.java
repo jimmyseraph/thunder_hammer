@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 
 /**
  * PageObject基类，所有PageObject必须继承该类才能正常被注入。
+ * @author Louis
  */
 public class BasePage{
     /**
