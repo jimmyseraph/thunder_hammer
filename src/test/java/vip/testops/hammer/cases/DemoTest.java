@@ -1,9 +1,7 @@
 package vip.testops.hammer.cases;
 
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
 import vip.testops.hammer.annotations.Page;
-import vip.testops.hammer.extensions.HammerExtension;
 import vip.testops.hammer.pages.IndexPage;
 
 
